@@ -1,3 +1,6 @@
+# Readme
+
+## Steps to download and load the data into database
 1. Extract the downloaded folder onto your local system.
 2. Optionally, create a PostgreSQL database (Note: I used PostgreSQL for analysis).
 3. Create a virtual environment and activate the environment and install the packages from the requirements file.
